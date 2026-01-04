@@ -45,4 +45,5 @@ Deletes window.WebGLRenderingContext
 Deletes window.WebGL2RenderingContext
 This forces websites to fail their "Feature Detection" checks, causing them to disable their 3D engines immediately.
 📝 License
+
 This project is open-source. Feel free to modify and distribute it.
